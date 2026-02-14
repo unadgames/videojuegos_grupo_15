@@ -1,6 +1,6 @@
 # Melchisedek Edwin Pérez Buitrago
 
-![Foto Personal](foto.jpg)
+![Foto Personal](personal.jpg)
 
 ## Rol en la industria del videojuego:
 Programador de videojuegos
