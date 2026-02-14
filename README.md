@@ -9,4 +9,4 @@ Programador de videojuegos
 Bogotá, Colombia
 
 ## Perfil:
-Soy estudiante de Ingeniería Multimedia, apasionado por el desarrollo de videojuegos y las nuevas tecnologías. Me interesa el diseño de sistemas interactivos y la programación en motores como Unity. Mi objetivo es desarrollar videojuegos innovadores que combinen creatividad y tecnología de vanguardia.
+Soy estudiante de Ingeniería Multimedia, apasionado por el desarrollo por las nuevas tecnologías. Me interesa el diseño de sistemas interactivos y la programación en motores como Unity. Mi objetivo es aprender sobre el desarrollo de videojuegos que utilice la creatividad.
